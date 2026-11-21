@@ -1,0 +1,8 @@
+{
+  "name": "pr-tpp7",
+  "version-string": "1.0.0",
+  "dependencies": [
+    "gtest"
+  ],
+  "builtin-baseline": "fe45b1c379a7d32edeb29ce0d7eff13835896762"
+}
