@@ -147,4 +147,3 @@ ctest --test-dir out/build/x64-debug --output-on-failure
 ```
 dumpbin /exports SearchUtils.lib
 ```
-і звірте імена та кількість параметрів із заголовком з лабораторної №4.
